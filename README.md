@@ -30,7 +30,8 @@ HTML: For structuring the web pages.
 
 CSS: For styling the elements and layout.
 ## Link
-github links https://github.com/nikhilranjanchoubey/PROJECTS
+github links https://github.com/nikhilranjanchoubey/Amazon-Clone
+
 ## Usage
 Navigate through the site using the header links.
 View different product listings.
