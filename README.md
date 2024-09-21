@@ -20,8 +20,11 @@ Creating a website clone is an ambitious project that involves replicating the u
 
 ## Features
 Responsive Design: Ensures the site looks good on all devices.
+
 Navigation Bar: Includes logo, search bar, and account options.
+
 Product Listings: Displays products with images, descriptions, and prices.
+
 Footer: Contains additional links and information.
 ## Technologies Used
 HTML: For structuring the web pages.
